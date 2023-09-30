@@ -21,3 +21,4 @@ while True:
         print("Out Of bound")
 
 print("You took ", counter, "too Guess")
+
